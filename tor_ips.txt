@@ -1,5 +1,4 @@
 (this is due to some people trying to download this list every minute!)
-1.1.1.1
 1.161.148.162
 1.175.86.206
 1.175.97.102
