@@ -1,3 +1,4 @@
+https://check.torproject.org/exit-addresses
 https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
 https://secureupdates.checkpoint.com/IP-list/TOR.txt
 https://www.dan.me.uk/torlist/?full
