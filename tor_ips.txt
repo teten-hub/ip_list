@@ -12,6 +12,7 @@
 ################################################################
 (this is due to some people trying to download this list every minute!)
 (this is due to some people trying to download this list every minute!)101.99.92.179
+(this is due to some people trying to download this list every minute!){
 1.161.148.162
 1.161.159.68
 1.175.73.179
@@ -12691,6 +12692,7 @@
 99.9.12.152
 </head><body>
 <address>Apache Server at <a href="/cdn-cgi/l/email-protection#1a6d7f78777b696e7f685a7673696e693478767579717673696e347e7f">lists.blocklist.de</a> Port 443</address>
+<address>Apache Server at <a href="/cdn-cgi/l/email-protection#1d6a787f707c6e69786f5d71746e696e337f71727e7671746e69337978">lists.blocklist.de</a> Port 443</address>
 <h1>Not Found</h1>
 <hr>
 <html><head>
