@@ -3974,11 +3974,7 @@ Umm... You can only fetch the data every 30 minutes - sorry.  It's pointless any
 [2a14:c380:0090:0015:3837:298b:d872:a827]
 [2a14:c380:0c70:003a:3928:23d8:a325:3442]
 [2a14:c380:0c70:007e:0000:0000:0000:000a]
-<<<<<<< Updated upstream
 ]
 {
 }
 }<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-=======
-17.17.17.17
->>>>>>> Stashed changes
