@@ -1,6 +1,3 @@
-"detail": "Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.",
-"errors": [
-"status": 401
 1.12.1.3
 1.156.48.99
 1.175.71.15
