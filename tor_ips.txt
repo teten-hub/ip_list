@@ -1,6 +1,7 @@
 "detail": "Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.",
 "errors": [
 "status": 401
+(this is due to some people trying to download this list every minute!)
 1.156.48.99
 1.175.71.15
 1.201.176.169
@@ -11982,6 +11983,7 @@
 </head><body>
 <address>Apache Server at <a href="/cdn-cgi/l/email-protection#463123242b2735322334062a2f35323568242a29252d2a2f3532682223">lists.blocklist.de</a> Port 443</address>
 <address>Apache Server at <a href="/cdn-cgi/l/email-protection#acdbc9cec1cddfd8c9deecc0c5dfd8df82cec0c3cfc7c0c5dfd882c8c9">lists.blocklist.de</a> Port 443</address>
+<address>Apache Server at <a href="/cdn-cgi/l/email-protection#bacddfd8d7dbc9cedfc8fad6d3c9cec994d8d6d5d9d1d6d3c9ce94dedf">lists.blocklist.de</a> Port 443</address>
 <address>Apache Server at <a href="/cdn-cgi/l/email-protection#e5928087888496918097a5898c969196cb87898a868e898c9691cb8180">lists.blocklist.de</a> Port 443</address>
 <h1>Not Found</h1>
 <hr>
@@ -11989,6 +11991,8 @@
 <p>The requested URL was not found on this server.</p>
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body></html>
 <title>404 Not Found</title>
+If you keep trying to download this list too often, you may get blocked from accessing it completely.
+Umm... You can only fetch the data every 30 minutes - sorry.  It's pointless any faster as I only update every 30 minutes anyway.
 [2001:0470:0001:0908:0000:0000:0000:9001]
 [2001:0470:1f06:02b4:0000:0000:0000:0002]
 [2001:0620:20d0:0000:0000:0000:0000:0023]
