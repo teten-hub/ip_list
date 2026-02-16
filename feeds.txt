@@ -1,4 +1,3 @@
-https://check.torproject.org/exit-addresses
 https://lists.blocklist.de/lists/all.txt
 https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
